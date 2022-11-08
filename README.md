@@ -1,4 +1,4 @@
-# Problema-Planeta-en-Orbita
+# ProblemaPlanetaenOrbita
 ## Contenido
 - Para la resolución de este trabajo, se crearon los siguientes programas: 
 
